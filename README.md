@@ -1,3 +1,3 @@
 KRW 12000￦
 
-![discord](http://dsc.bio/icetang0123)
+![discord](https://discords.com/bio/p/icetang0123)
