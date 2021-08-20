@@ -1,4 +1,3 @@
 KRW 12000￦
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/359633571742220289
-                            )](https://discord.com/users/359633571742220289)
+[![gooddltmdqls(Icetang0123)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddltmdqls)](https://github.com/anuraghazra/github-readme-stats)
