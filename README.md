@@ -12,7 +12,9 @@
 
 ## Contanct methods
 Phone number: No for you LOL
+
 Email address: `1415wwwh@gmail.com`
+
 Discord: `아이스탕12#9999`
 
 ## Stats
