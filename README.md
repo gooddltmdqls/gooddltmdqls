@@ -16,4 +16,4 @@ Email address: `1415wwwh@gmail.com`
 Discord: `아이스탕12#9999`
 
 ## Stats
-[![gooddltmdqls(Icetang0123)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddltmdqls)](https://github.com/anuraghazra/github-readme-stats)
+[![gooddltmdqls(Icetang0123)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddltmdqls&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
