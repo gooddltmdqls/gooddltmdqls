@@ -1,4 +1,4 @@
-# I'm the a developer.
+# I'm a student developer.
 
 ## I can use...
 ### There languages
